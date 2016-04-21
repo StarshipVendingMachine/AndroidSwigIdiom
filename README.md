@@ -34,4 +34,4 @@ class BitmapUsage {
 ```
 
 - Native code에서 JVM에 memory를 할당할 수 있다. 그래서 native에서 잡는 memory에 따라 GC가 trigger될 수 있다. 
-  [Overriding new and delete to allocate from Java heap](http://www.swig.org/Doc3.0/Java.html#Java_heap_allocations)
+  -[Overriding new and delete to allocate from Java heap](http://www.swig.org/Doc3.0/Java.html#Java_heap_allocations)
