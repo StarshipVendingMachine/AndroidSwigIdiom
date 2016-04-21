@@ -1,0 +1,2 @@
+# AndroidSwigIdiom
+Android swig idioms
